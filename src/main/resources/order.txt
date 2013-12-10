@@ -1,0 +1,5 @@
+xwikidoc
+xwikiobjects
+xwikiproperties
+xwikilists
+xwikiattachment
